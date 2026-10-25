@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "제2공학관": {
+      "style": "brick",
+      "wall": "#9a5e50",
+      "glass": "#5b7f86",
+      "frame": "#e6e5e2"
+    },
+    "제4공학관": {
+      "style": "brick",
+      "wall": "#5a5254",
+      "glass": "#2e3134",
+      "frame": "#804e52"
+    },
+    "제10공학관": {
+      "style": "tan",
+      "wall": "#c3b7a3",
+      "glass": "#2d4759",
+      "frame": "#8a8a8a"
+    },
+    "제9공학관": {
+      "style": "stone",
+      "wall": "#b3b2b5",
+      "glass": "#3a3f46",
+      "frame": "#8b9399"
+    },
+    "체육관": {
+      "style": "brick",
+      "wall": "#6f4a3f",
+      "glass": "#2f3438",
+      "frame": "#cfcac3"
+    },
+    "학생생활관(챌린지하우스)": {
+      "style": "dorm",
+      "wall": "#b4aea8",
+      "glass": "#3c3f44",
+      "frame": "#8a8380"
+    },
+    "제6공학관": {
+      "style": "brick",
+      "wall": "#844e3c",
+      "glass": "#3b506d",
+      "frame": "#3f5fae"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#b5897c",
+      "glass": "#2a2c30",
+      "frame": "#3a3a3a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
